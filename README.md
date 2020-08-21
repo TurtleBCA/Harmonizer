@@ -11,3 +11,5 @@ chords for the melody coming up.
 I wrote a straight up algorithm myself in MIDI_Processing.ipynb. It is also used to extract training examples out of MIDI files.
 
 This project is still a work in progress!
+
+For now, you may read a write-up of this project at my website: https://eliascho.com/
