@@ -12,4 +12,4 @@ I wrote a straight up algorithm myself in MIDI_Processing.ipynb. It is also used
 
 This project is still a work in progress!
 
-For now, you may read a write-up of this project at my website: https://eliascho.com/
+For more details, you may read an in-depth write-up of this project at my website: https://eliascho.com/
